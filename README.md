@@ -1,2 +1,2 @@
 # sam_plot
-pip install opencv-python pycocotools matplotlib onnxruntime onnx segment_anything
+you should download checkpoint in https://github.com/facebookresearch/segment-anything/tree/main?tab=readme-ov-file#model-checkpoints

@@ -1,0 +1,7 @@
+### pytorch
+opencv-python 
+pycocotools 
+matplotlib 
+onnxruntime 
+onnx 
+segment_anything
